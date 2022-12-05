@@ -53,5 +53,5 @@ def solution_second_part(path: str) -> None:
     print(score)
 
 
-solution_first_part("/Users/johnmantios1/Desktop/advent_of_code_2022/day4/input4.txt")
-solution_second_part("/Users/johnmantios1/Desktop/advent_of_code_2022/day4/input4.txt")
+solution_first_part("input4.txt")
+solution_second_part("input4.txt")
